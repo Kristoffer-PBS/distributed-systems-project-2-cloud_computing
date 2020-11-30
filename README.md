@@ -20,3 +20,6 @@ the DOM (Document Object Model), and display the generated fortune cookie.
 - [  ] Create dockerfile
 - [  ] Create deployment manifest for kubernetes cluster.
 - [  ] Unit test, and test API service endpoint.
+
+## Rapport:
+https://www.overleaf.com/3736124467bfjtxxjtrbgg
